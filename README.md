@@ -13,7 +13,7 @@
 		return Denver()
 	
 	def Ambitions():
-		Build-AI-coaching-platform()
+		BuildAiCoachingPlatform()
 	
  ```
 
@@ -36,17 +36,15 @@
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	
 </p>
-<!--
-**travis-burmaster/travis-burmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/travis-burmaster-75288155/"><img alt="Linkedin" title="Travis Burmaster Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/travis-burmaster"><img alt="Github" title="Travis Burmaster Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:travis.burmaster@gmail.com"><img alt="Gmail" title="Travis Burmaster Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+
+- [DevOps]
+- [Kubernetes]
