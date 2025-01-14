@@ -5,7 +5,7 @@
  ```python
   class WhoAmI:
     user = 'Travis Burmaster'
-    currently_learning = "MLOps"
+    currently_learning = "AutoGen, LangGraph"
     fun_fact = "I'm an avid runner who enjoys spending time with my family and friends."
 	hobbies = [ 'Running','Soccer','Programming','Comedy','Movies' ]
 	
