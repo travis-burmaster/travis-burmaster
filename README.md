@@ -5,15 +5,15 @@
  ```python
   class WhoAmI:
     user = 'Travis Burmaster'
-    currently_learning = "AutoGen, LangGraph"
+    currently_learning = "AutoGen, LangGraph, LangChain"
     fun_fact = "I'm an avid runner who enjoys spending time with my family and friends."
 	hobbies = [ 'Running','Soccer','Programming','Comedy','Movies' ]
 	
 	def getCity():
 		return Denver()
 	
-	def Ambitions():
-		BuildAiCoachingPlatform()
+	def getProject():
+		BuildAiFramework()
 	
  ```
 
@@ -48,3 +48,4 @@
 
 - [DevOps]
 - [Kubernetes]
+- [AI]
