@@ -6,6 +6,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E44AD?style=flat-square&logo=google&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1B1F23?style=flat-square&logo=github&logoColor=white)
@@ -23,12 +25,12 @@
 
 ## What I'm Building Toward
 
-I'm focused on **agentic AI that ships** which includes production systems with proper observability, security, and deployment patterns. Current area of focus:
+I'm focused on **agentic AI that ships** which includes production systems with proper observability, security, and deployment patterns. Current areas of focus:
 
 - Multi-agent orchestration with real telemetry (cost, cache efficiency, tool usage)
-- Secure containerized agent runtimes deployable on any cloud or self-hosted
+- Secure containerized agent runtimes deployable across AWS, Azure, GCP, or self-hosted
 - AI for federal government contracting workflows (RFI responses, compliance, procurement)
-- GCP Cloud Run agents with Vertex AI / Gemini integration
+- Multi-cloud deployments using GCP Cloud Run, AWS Bedrock AgentCore, and Azure Copilot Studio
 - Browser-native AI via [WebMCP](https://webmachinelearning.github.io/webmcp/) (W3C draft spec)
 
 ## Connect
