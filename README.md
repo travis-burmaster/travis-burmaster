@@ -23,7 +23,7 @@
 
 ## What I'm Building Toward
 
-I'm focused on **agentic AI that ships**, but production systems with proper observability, security, and deployment patterns. Current area of focus:
+I'm focused on **agentic AI that ships** which includes production systems with proper observability, security, and deployment patterns. Current area of focus:
 
 - Multi-agent orchestration with real telemetry (cost, cache efficiency, tool usage)
 - Secure containerized agent runtimes deployable on any cloud or self-hosted
