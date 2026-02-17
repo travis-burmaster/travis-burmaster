@@ -1,6 +1,6 @@
 # Hi, I'm Travis 👋
 
-📍 **Denver, CO** | 🤖 **AI Agent Builder** | 🏛️ **Partner @ [Northramp](https://burmaster.com)**
+📍 **Denver, CO** | 🤖 **AI Agent Builder** | 🏛️ **Solution Architect @ [Northramp](https://burmaster.com)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
