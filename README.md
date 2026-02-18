@@ -19,7 +19,6 @@
 
 - 🧠 **[bmasterai](https://github.com/travis-burmaster/bmasterai)** — AI Agent Master Framework. Story-first blueprints, telemetry-ready agents, and enterprise-grade launchpad for building multi-agent AI systems.
 - 📦 **[agentbox](https://github.com/travis-burmaster/agentbox)** — Security-first Docker runtime for self-hosted AI agents. Isolated VMs, encrypted secrets, OpenClaw-powered, telemetry dashboard included.
-- 🎓 **[agent-training](https://github.com/travis-burmaster/agent-training)** — Interactive training platform for AI agent development patterns, from fundamentals to AWS Bedrock AgentCore.
 - 🤖 **[Git-Code-Review-Agent](https://github.com/travis-burmaster/Git-Code-Review-Agent)** — LangGraph + OpenAI agent that analyzes repos, finds bugs, and implements fixes autonomously.
 - 🔌 **[copilot-studio-api](https://github.com/travis-burmaster/copilot-studio-api)** — .NET API for Microsoft Copilot Studio with direct-to-engine settings and Azure AD auth.
 
